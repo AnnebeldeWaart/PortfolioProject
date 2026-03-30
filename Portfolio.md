@@ -2,7 +2,11 @@
 
 Dit is mijn portfolio, hier in staan alle opdrachten en bewijsstukken. Bij sommige opdrachten leg ik graag nog wat extra toe. Ik heb 2 projecten gebruikt voor dit portfoilio.
 
-**De link naar het trello bord:** https://trello.com/b/eYX4U0f5/dataproject
+**Link naar het trello bord:** https://trello.com/b/eYX4U0f5/dataproject
+
+**Bijbehorende Github link:** https://github.com/joramswarts/Portfolio-Project
+
+**Link naar Github Project Vacatures:** https://github.com/AnnebeldeWaart/PortfolioProject
 
 ---
 
@@ -48,28 +52,29 @@ De link voor de UML met wat extra toelichting: https://trello.com/c/pGhIw3KM/83-
 
 De link voor de ERD met no wat extra toelichting: https://trello.com/c/WLwuL1I2/112-erd
 
-Extra toelichting/verslag
-Ik en mijn team hadden nog nooit een UML of een ERD gemaakt voor een project. Uiteindelijk hebben we samen na wat onderzoek en met behulp van tools zoals Lucidchart twee diagrammen kunnen uitwerken. Nu ze af zijn, zijn we er toch van overtuigd dat deze een waardevolle bijdrage hebben geleverd aan het project.
+**Extra toelichting:**
+Mijn team en ik hadden nog nooit een UML of een ERD gemaakt voor een project. Uiteindelijk hebben we samen na wat onderzoek en met behulp van tools zoals Lucidchart twee diagrammen kunnen uitwerken. Nu ze af zijn, zijn we er toch van overtuigd dat deze een waardevolle bijdrage hebben geleverd aan het project.
 
 ---
 
 ### Opdracht 3 - Realiseert (onderdelen van) software
 **Criterium 3.1 t/m 3.5: Code**
-Ik haal mijn code uit mijn vacature project. In dit project ben ik diep in het onderwerp data cleaner gedoken. Ik heb met verschillende technieken gebruikt in mijn pytohn notebook om zo aan  te tonen wat ik ondertussen allemaal kan.
+Ik haal mijn code uit mijn vacature project. In dit project ben ik diep in het onderwerp data cleaning gedoken. Ik heb verschillende technieken gebruikt in mijn pytohn notebook om zo aan  te tonen wat ik ondertussen allemaal kan.
 
 **Denk aan:**
 
 - Verschillende libraies
 - Data qautily checks doen
 - Opschonen van data met behand van `Regex`
--
+- Werken met `ML modellen`
+- Werken met `API's`
 
 **Criterium 3.6: Versiebeheer**
 Je kunt de activiteit op GitHub teruglezen van het BDT-Project.
 
 Link van de github BDT-Project: https://github.com/joramswarts/Portfolio-Project/activity
 
-Er is naast commits voor mij ook veel werk geweest buiten GitHub om geweest. Ik heb toen naast het scrape script aan het power BI dashboard gewerkt. Maar dat kan je niet committen dus dat zie je niet trerug daar.
+Er is naast commits voor mij ook veel werk geweest buiten GitHub om geweest. Ik heb toen naast het scrape script aan het power BI dashboard gewerkt. Maar dat kan je niet committen dus dat zie je niet terug daar.
 
 Op het trello board staan bij de daily check ins wat ik ging doen die dag. Dus daar is ook een stukje versie beheer te vinden.
 
@@ -81,8 +86,10 @@ Link Trello boards: https://trello.com/b/eYX4U0f5/dataproject
 
 **Criterium 4.1: Testplan, Criterium 4.2: Testscenario, Criterium 4.3: Testrapport:**
 
-Ik heb in een python notebook mijn tests en errors staan: Error_andf_tril.pyind
-Hier in heb ik een aantel screenshots en stukjes code staan van de code die ik heb gestest om errors op te vangen of te voorkomen. Ook heb ik voor elk onderdeel een test plan en meerdere senario's uitgewerkrt.
+**Link naar de Github pagina:** https://github.com/AnnebeldeWaart/PortfolioProject/blob/final/Opdracht_4_Test_software.ipynb
+
+Ik heb in een python notebook mijn tests en errors staan.
+Hier in heb ik een aantal screenshots en stukjes code staan van de code die ik heb gestest om errors op te vangen of te voorkomen. Ook heb ik voor elk onderdeel een test plan en meerdere senario's uitgewerkrt.
 
 Ik heb mijn code tetest door met name te kijken waar het makkelijk breekbaar is en hoe ik dat zo strek mogelijk kon maken. Ook waren er wat onverwachte uitkomnsten bijvoorbeeld met de salary. Ik had er niet op gerekend dat er zo veel NaN waardes tussen stonden. En met het behulp van testen en inzicht krijgen heb ik nu een oplossing gevonden.
 
@@ -92,7 +99,9 @@ Ik heb mijn code tetest door met name te kijken waar het makkelijk breekbaar is 
 
 **Criterium 5.1: Testen, Criterium 5.2: Oplevering, Criterium 5.3: Reflectie**
 
-Ik heb per onderdeel 3 verbeetervoorstellen gedaan. Dit ging eigelijk wel goed ik heb per onderdeel 3 verbeteervoorstellen gedaan en een uitleg gegeven. Waarom het een goed verbetervoorstel is en hoe het aansluit bij de user stories.
+**Link naar de Github pagina:** https://github.com/AnnebeldeWaart/PortfolioProject/blob/final/VerbeterVoorstel.md
+
+Ik heb per onderdeel 3 verbeetervoorstellen gedaan en een uitleg gegeven. Waarom het een goed verbetervoorstel is en hoe het aansluit bij de user stories. Dit ging eigelijk wel goed.
 
 **Extra toelichting:**
 
@@ -110,7 +119,7 @@ Link van de viedeo: https://youtu.be/OaPlTiwFP1I
 
 **Criterium 6.3 & 6.4: Afspraken**
 
-Door ons aan onze afspraken te houden hebben we die met zijn drieen opgescheven. Gellukig hebben wij al vaker samen gewerkt en konden wij op elkaar rekenen.
+Door ons aan onze afspraken te houden hebben we die met zijn drieen opgescheven. Gelukkig hebben wij al vaker samen gewerkt en konden wij op elkaar rekenen.
 De uitdaging bij ons team was vooral bij de gemaakte afspraken nakomen. We hadden duidelijke afspraken over bijvoorbeel de daily check in en check outs. We vergaten deze regelmatig in te vullen en moesten elkaar er echt op wijzen om dit bij te werken. Maar we hadden naast het treollo board wel sowiso dagelijks contact om elkaar up to date te houden.
 
 Het schrijven van de userstories en ons daar aan houden is iets wat dan weer wel erg goed ging. Dit was ook een belangerijk onderdeel dus daar hebben we samen ook wel echt opgelet.
@@ -119,9 +128,9 @@ De afspraken die we hadden gemaakt staan op het trello board: https://trello.com
  
 - Onze afspraken gingen over de structuur en het onderhouden van het trello board.
 - Over de structuur op GitHub van de branches.
-- En Over de dagelijkse check-in en check-outs.
+- En over de dagelijkse check-in en check-outs.
 
-Extra toelichting/verslag
+**Extra toelichting:**
 Het opnemen van de stand up was niet echt spanned. Stand ups deden we door het project regelmatig om elkaar goed te kunnen onderstenen en elkaar aan de gemaakte afspaken houden.
 Over het algemeen zijn we wel blij hoe de gemiddelde stand ups gingen.
 
@@ -131,13 +140,12 @@ Over het algemeen zijn we wel blij hoe de gemiddelde stand ups gingen.
 
 **Criterium 7.1, 7.2 en 7.3: Presenteren**
 
-Ik heb mijn presentatie gedaan aan een fictive opdracht gever. ik heb mijn werk laten zien voor dat het bijna af was zodat de klant nog feedback zou kunnen geven en ik die nog zou kunnen toevoegen. De klant was erg blij met zijn schonen data en kan nu verder met dit project.
+Ik heb mijn presentatie gedaan aan een fictieve opdracht gever. ik heb mijn werk laten zien voor dat het bijna af was zodat de klant nog feedback zou kunnen geven en ik die nog zou kunnen toevoegen. De klant was erg blij met zijn schonen data en kan nu verder met dit project.
 
 Hier is de link naar de video: https://youtu.be/sEM3PmaaZFY
 
 **Extra toelichting:**
-
-Ivm prive situatie ben ik dit school jaar weinig aanwezig geweest en ben ik met het presenteren creatief geweest. Gelukkig weet mijn fictive opdracht gever veel van data. Daardoor kon hij de juiste vragen stellen en konden we een interactief gesprek hebben.
+Ivm prive situatie ben ik dit school jaar weinig aanwezig geweest en ben ik met het presenteren creatief geweest. Gelukkig weet mijn fictieve opdracht gever veel van data. Daardoor kon hij de juiste vragen stellen en konden we een interactief gesprek hebben.
 
 ---
 
@@ -149,6 +157,5 @@ Ik heb dit filmpje vorige jaar (2025) opgenomen met Joram Swarts en Xander Kapte
 
 De link voor het filmpje: https://youtu.be/oA2u_VJvNJA
 
-Extra toelichting:
-Het team dinamiek was fijn, dus was er ook plek om op je zelf en andere te refecteren.
-out
+**Extra toelichting:**
+Het teamdynamiek was fijn, dus was er ook plek om op je zelf en andere te refecteren.
